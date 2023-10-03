@@ -1,6 +1,6 @@
 # Buenass
 ### Soy albacaLoca y soy aficionado de la cultura mesopotámica antigua y me gusta ver videos de gatos jugando y guerras tablibanas.
-#### я люблю играть в футбол
+#### Я люблю играть в футбол, боэ, смотреть турецкие бои и колумбийские комедии.
 
 
 
