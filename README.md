@@ -1,6 +1,6 @@
-# Buenass
-### Меня зовут albacaLoca, я фанат древней месопотамской культуры и люблю смотреть видео об играющих кошках и войнах Таблибана.
-#### Я люблю играть в футбол, боэ, смотреть турецкие бои и колумбийские комедии.
+# Emanuel Quiroga
+### Soy desarrollador front-end, y aquí en GitHub encontrarás mis proyectos personales y con mi quipo de trabajo estudiantil.
+#### Actualmente estoy buscando una salida laboral orientada  mis estudios, con visión de aprender y desarrollarme mas profesionalmente.
 
 
 
